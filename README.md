@@ -14,3 +14,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/sigma.git/)
 [![Steam](https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/apatheticslayer) 
 [![Twitter](https://img.shields.io/badge/-Twitter-425CE1?style=for-the-badge&logo=twitter)](https://twitter.com/animebakacode)
+[![Discord](https://img.shields.io/badge/-discord-393240?style=for-the-badge&logo=discord)](https://discord.com/users/screensquad#0118)
