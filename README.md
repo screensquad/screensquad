@@ -5,7 +5,7 @@
 
 
 
-# Environments
+# Environments 0_0
 [![Arch_Linux](https://img.shields.io/badge/-Arch-6EBFB4?style=flat-square&logo=archlinux)](https://archlinux.org/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-0cce6b?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![vscode](https://img.shields.io/badge/-VScode-blue?style=flat-square&logo=visualstudio)](https://code.visualstudio.com/)
