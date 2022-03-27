@@ -1,5 +1,6 @@
 # Skills (=
 [![Python](https://img.shields.io/badge/-Python-3B3D87?style=flat-square&logo=python)](https://www.python.org/)
+[![GIT](https://img.shields.io/badge/-git-BF2D20?style=flat-square&logo=git)](https://git-scm.com/)
 
 
 
