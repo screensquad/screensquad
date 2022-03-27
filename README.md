@@ -1,3 +1,10 @@
+# Skills (=
+[![Python](https://img.shields.io/badge/-Python-3B3D87?style=flat-square&logo=python)](https://www.python.org/)
+
+
+
+
+
 # Environments
 [![Arch_Linux](https://img.shields.io/badge/-Arch-6EBFB4?style=flat-square&logo=archlinux)](https://archlinux.org/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-0cce6b?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
